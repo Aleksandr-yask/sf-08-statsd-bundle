@@ -1,5 +1,5 @@
 {
-  "name": "sf-08-statsd-bundle",
+  "name": "aleksandr-yask/sf-08-statsd-bundle",
   "description": "Provides configured StatsdAPIClient",
   "type": "symfony-bundle",
   "license": "MIT",
